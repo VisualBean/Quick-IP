@@ -1,5 +1,4 @@
-https://ci.appveyor.com/api/projects/status/2egkhy9je8xha40v
-
+[![Build status](https://ci.appveyor.com/api/projects/status/2egkhy9je8xha40v)](https://ci.appveyor.com/project/alexintime/ipaddressnotification)
 IPAddressNotification
 =====================
 
