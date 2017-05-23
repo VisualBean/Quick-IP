@@ -1,5 +1,4 @@
 # Quick-IP
-===
 
 A small utility rendered in the taskbar, for showing IP-addresses and network changes.
 
